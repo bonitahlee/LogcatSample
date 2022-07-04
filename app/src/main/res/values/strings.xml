@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Logcat Sample</string>
+    <string name="log_start">Start log</string>
+    <string name="log_end">End log</string>
+</resources>
